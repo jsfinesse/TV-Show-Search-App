@@ -1,4 +1,16 @@
+* {
+    text-align: center;
+}
+
 img {
     min-width: 295px;
     min-height: 100%;
+}
+
+.shelf {
+    margin: 2rem;
+}
+
+input {
+    text-align: left;
 }
